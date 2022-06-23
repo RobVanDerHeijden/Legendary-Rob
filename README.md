@@ -2,6 +2,7 @@
 
 ![npm (scoped)](https://img.shields.io/npm/v/legendary-rob?logo=%3D)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/legendary-rob)
+![github version](https://img.shields.io/github/package-json/v/robvanderheijden/legendary-rob)
 
 # Title
 
