@@ -1,0 +1,43 @@
+{
+  "name": "legendary-rob",
+  "version": "1.0.76",
+  "types": "dist/index.d.ts",
+  "private": false,
+  "description": "A Legendary package",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob van der Heijden",
+  "license": "ISC",
+  "keywords": [
+    "gp",
+    "component"
+  ],
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.0",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "@rollup/plugin-typescript": "^8.3.3",
+    "@types/node": "^18.0.0",
+    "@types/react": "^17.0.47",
+    "react": "^17.0.2",
+    "rollup": "^2.75.7",
+    "rollup-plugin-dts": "^4.2.2",
+    "source-map-loader": "^4.0.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.8.4",
+    "@types/react-router": "^5.1.18",
+    "react-router": "^6.3.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
