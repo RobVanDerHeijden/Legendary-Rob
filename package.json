@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "repository": "git://github.com/robvanderheijden/legendary-rob.git",
+  "repository": "git://github.com/RobVanDerHeijden/Legendary-Rob.git",
   "version": "1.1.25",
   "description": "A Legendary package",
   "scripts": {
